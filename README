@@ -1,0 +1,33 @@
+EndGame 1.0.1
+
+// About
+A platform that allows two users to play the game Endgame.
+Win condition checks are commented out in the code since they are incomplete.
+
+// Rules
+Pieces follow the same move rules as Chess.
+Pieces can't capture other pieces.
+The goal is to have all of opponent's pieces in check and for them to not have an 'escape' move. 
+If all of your pieces are in check - you must move at least one piece out of it on your move.
+
+// Licence
+GPL v3, see GPL.txt
+
+// Web
+Endgame website: http://gisellej.com/2011/10/30/endgame/
+
+VERSION HISTORY
+--------------------------------------
+Alpha 1.0.1
+02.13.2012
+
++Released under GPLv3 licence
+
+Bug Fixes:
++Removed internet permissions as this was not needed.
+
+--------------------------------------
+Alpha 1.0.0
+10.30.2012
+
++Initial Release
