@@ -1,7 +1,7 @@
 EndGame 1.0.1
 
 // About
-A platform that allows two users to play the game Endgame a game conceptualized by <a href="http://artsites.ucsc.edu/faculty/cope/biography.htm">David Cope</a>.
+A platform that allows two users to play the game Endgame a game conceptualized by Professor David Cope of UCSC.
 Win condition checks are commented out in the code since they are incomplete.
 
 // Rules
